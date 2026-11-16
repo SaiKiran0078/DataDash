@@ -1,0 +1,5 @@
+# Replace analytics.example.com with a domain whose DNS points to this server.
+analytics.example.com {
+    encode zstd gzip
+    reverse_proxy 127.0.0.1:8081
+}

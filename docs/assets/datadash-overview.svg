@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">DataDash analytics workspace illustration</title>
+  <desc id="desc">Illustrative analytics workspace with dataset navigation, summary metrics, a trend chart, category bars, and an insight panel. This is an illustration, not a product screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1224"/><stop offset="1" stop-color="#182b4a"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4f8cff"/><stop offset="1" stop-color="#8665ff"/></linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#020617" flood-opacity=".38"/></filter>
+  </defs>
+  <rect width="1200" height="620" rx="30" fill="url(#bg)"/>
+  <circle cx="1060" cy="88" r="150" fill="#4f46e5" opacity=".10"/>
+  <circle cx="120" cy="560" r="200" fill="#06b6d4" opacity=".07"/>
+  <g fill="#c7d2fe" opacity=".65" font-family="Inter,Arial,sans-serif">
+    <text x="58" y="68" font-size="17" letter-spacing="3" font-weight="700">DATADASH</text>
+    <text x="58" y="110" font-size="29" font-weight="700" fill="#fff">From raw data to clear decisions.</text>
+    <text x="58" y="140" font-size="15" fill="#a8b8d8">An illustrative view of the analytics workflow</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="58" y="174" width="1084" height="394" rx="20" fill="#f8fafc"/>
+    <rect x="58" y="174" width="220" height="394" rx="20" fill="#111c33"/>
+    <rect x="258" y="174" width="20" height="394" fill="#111c33"/>
+  </g>
+  <g font-family="Inter,Arial,sans-serif">
+    <circle cx="88" cy="210" r="10" fill="url(#accent)"/>
+    <text x="108" y="216" font-size="16" fill="#fff" font-weight="700">DataDash</text>
+    <g font-size="13" fill="#9fb0cd">
+      <rect x="78" y="244" width="178" height="36" rx="9" fill="#293b5b"/>
+      <text x="96" y="267" fill="#fff">▦  Overview</text>
+      <text x="96" y="311">▤  Datasets</text>
+      <text x="96" y="355">⌁  Cleaning studio</text>
+      <text x="96" y="399">◫  Dashboards</text>
+      <text x="96" y="443">◈  Modeling</text>
+    </g>
+    <rect x="78" y="486" width="178" height="1" fill="#31435f"/>
+    <text x="96" y="516" font-size="12" fill="#7185a8">WORKSPACE</text>
+    <text x="96" y="540" font-size="12" fill="#d5def0">Sales performance</text>
+  </g>
+  <g font-family="Inter,Arial,sans-serif">
+    <text x="308" y="214" font-size="20" font-weight="700" fill="#0f172a">Overview</text>
+    <text x="308" y="237" font-size="11" fill="#64748b">Explore your data, track quality and surface useful patterns</text>
+    <g>
+      <rect x="308" y="258" width="186" height="82" rx="12" fill="#fff" stroke="#e2e8f0"/>
+      <rect x="508" y="258" width="186" height="82" rx="12" fill="#fff" stroke="#e2e8f0"/>
+      <rect x="708" y="258" width="186" height="82" rx="12" fill="#fff" stroke="#e2e8f0"/>
+      <rect x="908" y="258" width="202" height="82" rx="12" fill="#fff" stroke="#e2e8f0"/>
+      <g fill="#64748b" font-size="11">
+        <text x="326" y="280">TOTAL REVENUE</text><text x="526" y="280">ORDERS</text><text x="726" y="280">AVG. ORDER VALUE</text><text x="926" y="280">DATA COMPLETENESS</text>
+      </g>
+      <g fill="#0f172a" font-size="22" font-weight="700">
+        <text x="326" y="314">₹ 4.82M</text><text x="526" y="314">2,714</text><text x="726" y="314">₹ 1,776</text><text x="926" y="314">98.6%</text>
+      </g>
+      <g fill="#0d9488" font-size="10"><text x="326" y="329">+12.4% this period</text><text x="526" y="329">+8.2% this period</text><text x="726" y="329">+3.1% this period</text><text x="926" y="329">Quality snapshot</text></g>
+    </g>
+    <rect x="308" y="358" width="510" height="184" rx="12" fill="#fff" stroke="#e2e8f0"/>
+    <text x="328" y="383" font-size="13" font-weight="700" fill="#0f172a">Revenue trend</text>
+    <text x="328" y="401" font-size="10" fill="#64748b">Illustrative monthly movement</text>
+    <g stroke="#e2e8f0" stroke-width="1">
+      <path d="M338 426H794 M338 457H794 M338 488H794 M338 519H794"/>
+    </g>
+    <path d="M342 498 C390 488,400 470,445 478 S520 446,555 455 S622 425,660 438 S728 408,790 416" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+    <path d="M342 498 C390 488,400 470,445 478 S520 446,555 455 S622 425,660 438 S728 408,790 416 L790 519 L342 519Z" fill="#818cf8" opacity=".12"/>
+    <g fill="#64748b" font-size="9"><text x="340" y="534">JAN</text><text x="430" y="534">FEB</text><text x="520" y="534">MAR</text><text x="610" y="534">APR</text><text x="700" y="534">MAY</text><text x="782" y="534">JUN</text></g>
+    <rect x="834" y="358" width="276" height="184" rx="12" fill="#fff" stroke="#e2e8f0"/>
+    <text x="854" y="383" font-size="13" font-weight="700" fill="#0f172a">Business insights</text>
+    <rect x="854" y="402" width="236" height="52" rx="9" fill="#eff6ff"/>
+    <circle cx="874" cy="428" r="9" fill="#3b82f6"/>
+    <path d="M870 428l3 3 5-6" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/>
+    <text x="891" y="422" font-size="10" font-weight="700" fill="#1e3a8a">Revenue concentration</text>
+    <text x="891" y="438" font-size="9" fill="#475569">Review the top contributing segments.</text>
+    <rect x="854" y="466" width="236" height="58" rx="9" fill="#f0fdfa"/>
+    <circle cx="874" cy="495" r="9" fill="#0d9488"/>
+    <path d="M870 495h8m-4-4v8" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="891" y="489" font-size="10" font-weight="700" fill="#115e59">Data quality check</text>
+    <text x="891" y="505" font-size="9" fill="#475569">Inspect missing values and duplicates.</text>
+  </g>
+</svg>

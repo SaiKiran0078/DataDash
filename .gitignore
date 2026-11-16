@@ -1,0 +1,53 @@
+# Secrets and local environment
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!.env.sample
+!**/.env.example
+!**/.env.sample
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+.venv/
+venv/
+env/
+
+# Local databases, runtime uploads and logs
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.bak
+/backend/data/
+/backend/datadash.db
+/data/
+/uploads/
+/logs/
+*.log
+*.tmp
+*.temp
+
+# Node / Vite
+node_modules/
+dist/
+build/
+.vite/
+.npm/
+coverage/
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

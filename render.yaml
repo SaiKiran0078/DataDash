@@ -1,0 +1,71 @@
+# Render Blueprint for the DataDash portfolio/demo deployment.
+# The free Postgres option expires after 30 days; see docs/RENDER_DEPLOYMENT.md.
+services:
+  - type: web
+    name: datadash-portfolio-api
+    runtime: docker
+    plan: free
+    region: oregon
+    branch: main
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    healthCheckPath: /api/health
+    autoDeployTrigger: checksPass
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: datadash-db
+          property: connectionString
+      - key: SECRET_KEY
+        generateValue: true
+      - key: TOKEN_MINUTES
+        value: "720"
+      - key: CORS_ORIGINS
+        fromService:
+          name: datadash-portfolio-web
+          type: web
+          envVarKey: RENDER_EXTERNAL_URL
+      - key: DATA_DIR
+        value: /tmp/datadash-data
+      - key: MAX_UPLOAD_MB
+        value: "5"
+      - key: MAX_ROWS
+        value: "20000"
+      - key: MAX_COLS
+        value: "50"
+      - key: MAX_DATASETS_PER_USER
+        value: "3"
+      - key: RATE_LIMIT_ENABLED
+        value: "true"
+      - key: TRUST_PROXY
+        value: "false"
+
+  - type: web
+    name: datadash-portfolio-web
+    runtime: static
+    branch: main
+    rootDir: frontend
+    buildCommand: npm ci && npm run build
+    staticPublishPath: dist
+    autoDeployTrigger: checksPass
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          name: datadash-portfolio-api
+          type: web
+          envVarKey: RENDER_EXTERNAL_URL
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+
+databases:
+  - name: datadash-db
+    databaseName: datadash
+    user: datadash
+    plan: free
+    region: oregon
+    postgresMajorVersion: "16"
+    ipAllowList: []

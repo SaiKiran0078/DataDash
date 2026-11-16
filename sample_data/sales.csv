@@ -1,0 +1,422 @@
+order_id,order_date,region,category,product,units,unit_price,revenue,rating,returned
+ORD-1299,02-01-2025,North,Fashion,Sunglasses,4,1499,"₹5,996",4,No
+ORD-1393,02-01-2025,East,Fashion,Sunglasses,6,1499,"₹8,994",5,No
+ORD-1215,03-01-2025,West,Fashion,Sneakers,2,2999,"₹5,998",5,No
+ORD-1101,07-01-2025,North,Home,Air Fryer,1,5999,"₹5,999",5,No
+ORD-1410,07-01-2025,South,Fashion,Backpack,3,1799,"₹5,397",2,No
+ORD-1287,08-01-2025,South,Fashion,Backpack,1,1799,"₹1,799",2,No
+ORD-1318,08-01-2025,North,Electronics,Headphones,4,2499,"₹9,996",N/A,No
+ORD-1412,08-01-2025,North,Electronics,Headphones,1,2499,"₹2,499",2,No
+ORD-1095,09-01-2025,East,Electronics,Headphones,2,2499,"₹4,998",N/A,No
+ORD-1161,14-01-2025,East,Electronics,Smart Speaker,3,4999,"₹14,997",4,No
+ORD-1212,14-01-2025,East,Home,Air Fryer,4,5999,"₹23,996",4,No
+ORD-1164,16-01-2025,West,Electronics,Smart Speaker,3,4999,"₹14,997",2,No
+ORD-1381,16-01-2025,East,Fashion,Sneakers,2,2999,"₹5,998",3,No
+ORD-1002,17-01-2025,South,Electronics,Headphones,4,2499,"₹9,996",4,No
+ORD-1026,17-01-2025,South,Fashion,Sneakers,3,2999,"₹8,997",5,No
+ORD-1385,17-01-2025,North,Home,Air Fryer,3,5999,"₹17,997",4,No
+ORD-1129,19-01-2025,West,Electronics,Power Bank,2,1299,"₹2,598",5,No
+ORD-1184,22-01-2025,North,Home,Air Fryer,2,5999,"₹11,998",,No
+ORD-1195,22-01-2025,West,Home,Desk Lamp,2,899,"₹1,798",3,No
+ORD-1230,22-01-2025,West,Fashion,Backpack,3,1799,"₹5,397",5,No
+ORD-1047,23-01-2025,West,Electronics,Headphones,2,2499,"₹4,998",2,No
+ORD-1220,23-01-2025,East,Home,Air Fryer,2,5999,"₹11,998",4,No
+ORD-1224,23-01-2025,East,Fashion,Sneakers,4,2999,"₹11,996",5,No
+ORD-1007,24-01-2025,North,Home,Air Fryer,5,5999,"₹29,995",2,No
+ORD-1322,24-01-2025,South,Home,Mixer Grinder,3,3499,"₹10,497",4,No
+ORD-1258,25-01-2025,West,Electronics,Smart Speaker,2,4999,"₹9,998",5,No
+ORD-1162,27-01-2025,North,Electronics,Smart Speaker,1,4999,"₹4,999",5,No
+ORD-1172,27-01-2025,East,Fashion,Sunglasses,3,1499,"₹4,497",,No
+ORD-1100,28-01-2025,South,Home,Desk Lamp,5,899,"₹4,495",N/A,No
+ORD-1409,28-01-2025,West,Fashion,Sneakers,2,2999,"₹5,998",5,No
+ORD-1011,29-01-2025,North,Electronics,Headphones,3,2499,"₹7,497",4,No
+ORD-1244,29-01-2025,South,Fashion,Sunglasses,1,1499,"₹1,499",5,No
+ORD-1011,29-01-2025,North,Electronics,Headphones,3,2499,"₹7,497",4,No
+ORD-1036,30-01-2025,South,Electronics,Smart Speaker,4,4999,"₹19,996",4,No
+ORD-1231,30-01-2025,South,Electronics,Power Bank,1,1299,"₹1,299",4,No
+ORD-1314,30-01-2025,South,Home,Air Fryer,3,5999,"₹17,997",2,No
+ORD-1282,31-01-2025,South,Fashion,Sneakers,3,2999,"₹8,997",4,No
+ORD-1192,04-02-2025,East,Home,Desk Lamp,1,899,₹899,5,No
+ORD-1221,04-02-2025,East,Electronics,Power Bank,2,1299,"₹2,598",3,Yes
+ORD-1300,05-02-2025,North,Fashion,Backpack,3,1799,"₹5,397",5,No
+ORD-1041,07-02-2025,North,Electronics,Power Bank,7,1299,"₹9,093",4,No
+ORD-1359,07-02-2025,West,Home,Desk Lamp,1,899,₹899,4,No
+ORD-1327,08-02-2025,South,Fashion,Sunglasses,3,1499,"₹4,497",4,Yes
+ORD-1228,10-02-2025,East,Home,Mixer Grinder,3,3499,"₹10,497",,No
+ORD-1414,10-02-2025,South,Home,Mixer Grinder,3,3499,"₹10,497",,No
+ORD-1037,11-02-2025,South,Fashion,Sneakers,1,2999,"₹2,999",2,No
+ORD-1213,11-02-2025,East,Electronics,Headphones,2,2499,"₹4,998",3,No
+ORD-1335,12-02-2025,North,Home,Air Fryer,2,5999,"₹11,998",4,No
+ORD-1344,12-02-2025,South,Electronics,Smart Speaker,2,4999,"₹9,998",2,No
+ORD-1170,13-02-2025,East,Electronics,Headphones,6,2499,"₹14,994",3,No
+ORD-1416,14-02-2025,West,Fashion,Sneakers,2,2999,"₹5,998",4,No
+ORD-1145,16-02-2025,South,Fashion,Backpack,2,1799,"₹3,598",,No
+ORD-1194,16-02-2025,West,Home,Desk Lamp,3,899,"₹2,697",N/A,No
+ORD-1247,17-02-2025,South,Home,Mixer Grinder,1,3499,"₹3,499",,No
+ORD-1199,18-02-2025,South,Home,Air Fryer,2,5999,"₹11,998",,No
+ORD-1005,19-02-2025,West,Electronics,Smart Speaker,1,4999,"₹4,999",5,No
+ORD-1406,21-02-2025,West,Electronics,Headphones,1,2499,"₹2,499",,No
+ORD-1384,22-02-2025,South,Fashion,Sunglasses,2,1499,"₹2,998",5,No
+ORD-1044,23-02-2025,East,Fashion,Sneakers,7,2999,"₹20,993",5,No
+ORD-1116,23-02-2025,West,Fashion,Backpack,2,1799,"₹3,598",N/A,No
+ORD-1187,24-02-2025,East,Electronics,Power Bank,2,1299,"₹2,598",,No
+ORD-1345,24-02-2025,North,Electronics,Smart Speaker,1,4999,"₹4,999",3,No
+ORD-1259,25-02-2025,East,Home,Air Fryer,2,5999,"₹11,998",4,No
+ORD-1015,26-02-2025,North,Electronics,Headphones,3,2499,"₹7,497",2,No
+ORD-1020,27-02-2025,South,Fashion,Backpack,3,1799,"₹5,397",4,No
+ORD-1048,27-02-2025,South,Electronics,Power Bank,2,1299,"₹2,598",4,No
+ORD-1286,27-02-2025,West,Electronics,Power Bank,2,1299,"₹2,598",5,No
+ORD-1084,28-02-2025,East,Fashion,Sneakers,3,2999,"₹8,997",5,No
+ORD-1122,28-02-2025,South,Home,Mixer Grinder,1,3499,"₹3,499",N/A,No
+ORD-1104,02-03-2025,South,Home,Air Fryer,4,5999,"₹23,996",2,No
+ORD-1254,04-03-2025,South,Electronics,Headphones,1,2499,"₹2,499",5,Yes
+ORD-1040,09-03-2025,West,Home,Air Fryer,2,5999,"₹11,998",,No
+ORD-1042,09-03-2025,South,Fashion,Sneakers,2,2999,"₹5,998",,No
+ORD-1293,10-03-2025,West,Home,Air Fryer,2,5999,"₹11,998",N/A,No
+ORD-1079,11-03-2025,South,Fashion,Sneakers,4,2999,"₹11,996",N/A,No
+ORD-1153,11-03-2025,West,Electronics,Smart Speaker,1,4999,"₹4,999",3,No
+ORD-1237,11-03-2025,North,Fashion,Backpack,4,1799,"₹7,196",,No
+ORD-1301,11-03-2025,West,Fashion,Sunglasses,55,1499,"₹82,445",2,No
+ORD-1240,13-03-2025,North,Electronics,Smart Speaker,1,4999,"₹4,999",,No
+ORD-1378,13-03-2025,North,Electronics,Smart Speaker,1,4999,"₹4,999",,No
+ORD-1376,14-03-2025,South,Home,Air Fryer,4,5999,"₹23,996",2,No
+ORD-1137,15-03-2025,North,Electronics,Power Bank,2,1299,"₹2,598",N/A,No
+ORD-1124,16-03-2025,South,Electronics,Power Bank,3,1299,"₹3,897",5,No
+ORD-1160,16-03-2025,East,Fashion,Sunglasses,1,1499,"₹1,499",3,No
+ORD-1067,17-03-2025,North,Home,Mixer Grinder,5,3499,"₹17,495",2,No
+ORD-1264,18-03-2025,South,Home,Desk Lamp,3,899,"₹2,697",,No
+ORD-1328,19-03-2025,West,Electronics,Power Bank,3,1299,"₹3,897",,Yes
+ORD-1178,21-03-2025,North,Electronics,Power Bank,4,1299,"₹5,196",5,No
+ORD-1204,21-03-2025,North,Electronics,Headphones,5,2499,"₹12,495",,No
+ORD-1281,22-03-2025,East,Home,Air Fryer,2,5999,"₹11,998",,No
+ORD-1397,22-03-2025,South,Home,Mixer Grinder,4,3499,"₹13,996",5,No
+ORD-1211,24-03-2025,South,Electronics,Power Bank,3,1299,"₹3,897",N/A,No
+ORD-1188,28-03-2025,North,Electronics,Power Bank,3,1299,"₹3,897",4,No
+ORD-1349,28-03-2025,South,Electronics,Smart Speaker,2,4999,"₹9,998",2,No
+ORD-1114,31-03-2025,West,Home,Desk Lamp,3,899,"₹2,697",5,No
+ORD-1283,31-03-2025,West,Home,Mixer Grinder,3,3499,"₹10,497",N/A,No
+ORD-1092,04-04-2025,East,Home,Air Fryer,2,5999,"₹11,998",,No
+ORD-1219,06-04-2025,North,Home,Mixer Grinder,1,3499,"₹3,499",2,No
+ORD-1054,09-04-2025,North,Electronics,Smart Speaker,5,4999,"₹24,995",5,No
+ORD-1082,13-04-2025,South,Fashion,Sunglasses,3,1499,"₹4,497",4,No
+ORD-1252,15-04-2025,East,Electronics,Headphones,3,2499,"₹7,497",,No
+ORD-1315,15-04-2025,North,Electronics,Headphones,5,2499,"₹12,495",4,Yes
+ORD-1387,16-04-2025,South,Fashion,Sneakers,1,2999,"₹2,999",,No
+ORD-1106,17-04-2025,North,Home,Air Fryer,2,5999,"₹11,998",3,No
+ORD-1027,20-04-2025,West,Home,Desk Lamp,4,899,"₹3,596",4,No
+ORD-1405,20-04-2025,West,Home,Mixer Grinder,4,3499,"₹13,996",4,No
+ORD-1177,21-04-2025,East,Electronics,Smart Speaker,2,4999,"₹9,998",5,No
+ORD-1065,26-04-2025,West,Fashion,Sneakers,4,2999,"₹11,996",5,No
+ORD-1110,26-04-2025,South,Home,Air Fryer,1,5999,"₹5,999",5,Yes
+ORD-1401,26-04-2025,North,Home,Air Fryer,5,5999,"₹29,995",2,No
+ORD-1168,27-04-2025,West,Home,Air Fryer,2,5999,"₹11,998",2,No
+ORD-1073,29-04-2025,West,Electronics,Headphones,2,2499,"₹4,998",,No
+ORD-1341,29-04-2025,West,Fashion,Backpack,1,1799,"₹1,799",,Yes
+ORD-1308,30-04-2025,South,Home,Mixer Grinder,1,3499,"₹3,499",5,No
+ORD-1033,02-05-2025,North,Electronics,Smart Speaker,1,4999,"₹4,999",3,No
+ORD-1051,02-05-2025,East,Fashion,Sneakers,3,2999,"₹8,997",2,No
+ORD-1216,02-05-2025,South,Electronics,Headphones,5,2499,"₹12,495",2,No
+ORD-1091,05-05-2025,North,Fashion,Sunglasses,1,1499,"₹1,499",N/A,No
+ORD-1158,05-05-2025,South,Fashion,Sunglasses,1,1499,"₹1,499",5,No
+ORD-1324,06-05-2025,East,Home,Desk Lamp,3,899,"₹2,697",5,No
+ORD-1071,07-05-2025,South,Fashion,Backpack,3,1799,"₹5,397",5,No
+ORD-1274,07-05-2025,South,Electronics,Smart Speaker,1,4999,"₹4,999",5,No
+ORD-1305,07-05-2025,North,Home,Mixer Grinder,2,3499,"₹6,998",4,No
+ORD-1050,08-05-2025,West,Home,Air Fryer,3,5999,"₹17,997",3,No
+ORD-1052,08-05-2025,North,Electronics,Power Bank,2,1299,"₹2,598",2,No
+ORD-1046,09-05-2025,North,Fashion,Sneakers,1,2999,"₹2,999",2,No
+ORD-1236,14-05-2025,East,Fashion,Sneakers,3,2999,"₹8,997",N/A,No
+ORD-1018,15-05-2025,North,Fashion,Sneakers,4,2999,"₹11,996",5,No
+ORD-1420,15-05-2025,North,Fashion,Sunglasses,2,1499,"₹2,998",N/A,No
+ORD-1056,16-05-2025,West,Electronics,Power Bank,3,1299,"₹3,897",,No
+ORD-1109,16-05-2025,South,Fashion,Sunglasses,1,1499,"₹1,499",2,No
+ORD-1131,16-05-2025,East,Electronics,Power Bank,2,1299,"₹2,598",2,No
+ORD-1009,17-05-2025,South,Fashion,Sunglasses,1,1499,"₹1,499",4,No
+ORD-1419,18-05-2025,West,Fashion,Sneakers,3,2999,"₹8,997",5,No
+ORD-1097,19-05-2025,North,Electronics,Headphones,3,2499,"₹7,497",3,No
+ORD-1112,20-05-2025,West,Home,Air Fryer,2,5999,"₹11,998",5,No
+ORD-1146,20-05-2025,West,Fashion,Backpack,2,1799,"₹3,598",5,No
+ORD-1175,20-05-2025,South,Fashion,Backpack,4,1799,"₹7,196",3,No
+ORD-1342,20-05-2025,West,Fashion,Backpack,1,1799,"₹1,799",4,No
+ORD-1398,21-05-2025,East,Electronics,Smart Speaker,2,4999,"₹9,998",5,No
+ORD-1174,23-05-2025,North,Home,Air Fryer,3,5999,"₹17,997",5,Yes
+ORD-1392,23-05-2025,West,Home,Air Fryer,3,5999,"₹17,997",N/A,No
+ORD-1355,24-05-2025,South,Fashion,Backpack,1,1799,"₹1,799",3,No
+ORD-1180,26-05-2025,West,Home,Desk Lamp,3,899,"₹2,697",5,Yes
+ORD-1395,26-05-2025,East,Electronics,Power Bank,5,1299,"₹6,495",4,Yes
+ORD-1072,27-05-2025,East,Electronics,Smart Speaker,1,4999,"₹4,999",5,No
+ORD-1142,27-05-2025,East,Fashion,Sneakers,3,2999,"₹8,997",4,No
+ORD-1214,27-05-2025,South,Fashion,Backpack,3,1799,"₹5,397",N/A,No
+ORD-1108,28-05-2025,West,Fashion,Sunglasses,4,1499,"₹5,996",5,No
+ORD-1120,28-05-2025,West,Home,Desk Lamp,1,899,₹899,5,Yes
+ORD-1277,28-05-2025,East,Fashion,Sneakers,2,2999,"₹5,998",N/A,No
+ORD-1182,29-05-2025,West,Electronics,Headphones,3,2499,"₹7,497",2,No
+ORD-1284,29-05-2025,East,Fashion,Sneakers,2,2999,"₹5,998",5,No
+ORD-1123,30-05-2025,West,Home,Air Fryer,1,5999,"₹5,999",4,No
+ORD-1218,30-05-2025,East,Home,Desk Lamp,1,899,₹899,4,No
+ORD-1357,30-05-2025,West,Fashion,Sneakers,4,2999,"₹11,996",N/A,No
+ORD-1388,30-05-2025,North,Electronics,Smart Speaker,2,4999,"₹9,998",3,No
+ORD-1135,31-05-2025,South,Electronics,Smart Speaker,4,4999,"₹19,996",3,No
+ORD-1099,01-06-2025,South,Electronics,Headphones,2,2499,"₹4,998",5,Yes
+ORD-1141,01-06-2025,North,Electronics,Power Bank,2,1299,"₹2,598",N/A,No
+ORD-1365,01-06-2025,South,Home,Mixer Grinder,5,3499,"₹17,495",,No
+ORD-1139,03-06-2025,East,Home,Air Fryer,2,5999,"₹11,998",4,No
+ORD-1266,03-06-2025,East,Home,Mixer Grinder,1,3499,"₹3,499",,No
+ORD-1313,03-06-2025,East,Electronics,Power Bank,1,1299,"₹1,299",3,No
+ORD-1350,03-06-2025,East,Home,Mixer Grinder,3,3499,"₹10,497",5,No
+ORD-1086,04-06-2025,North,Fashion,Sunglasses,4,1499,"₹5,996",4,No
+ORD-1290,04-06-2025,North,Home,Desk Lamp,3,899,"₹2,697",5,No
+ORD-1152,05-06-2025,North,Fashion,Sneakers,4,2999,"₹11,996",4,No
+ORD-1358,05-06-2025,South,Electronics,Power Bank,1,1299,"₹1,299",2,No
+ORD-1111,07-06-2025,West,Home,Desk Lamp,4,899,"₹3,596",5,No
+ORD-1257,07-06-2025,South,Home,Mixer Grinder,4,3499,"₹13,996",4,No
+ORD-1203,08-06-2025,South,Electronics,Headphones,1,2499,"₹2,499",4,No
+ORD-1085,09-06-2025,North,Home,Air Fryer,1,5999,"₹5,999",4,No
+ORD-1057,10-06-2025,South,Home,Desk Lamp,5,899,"₹4,495",5,Yes
+ORD-1169,10-06-2025,West,Home,Desk Lamp,2,899,"₹1,798",5,No
+ORD-1256,10-06-2025,West,Electronics,Headphones,6,2499,"₹14,994",N/A,No
+ORD-1407,11-06-2025,East,Fashion,Sneakers,2,2999,"₹5,998",4,No
+ORD-1265,13-06-2025,East,Electronics,Power Bank,2,1299,"₹2,598",N/A,No
+ORD-1127,14-06-2025,West,Fashion,Sunglasses,3,1499,"₹4,497",4,No
+ORD-1390,14-06-2025,West,Fashion,Sunglasses,2,1499,"₹2,998",N/A,No
+ORD-1245,15-06-2025,East,Fashion,Sneakers,1,2999,"₹2,999",5,No
+ORD-1060,17-06-2025,South,Home,Air Fryer,5,5999,"₹29,995",4,No
+ORD-1229,17-06-2025,South,Home,Air Fryer,1,5999,"₹5,999",N/A,No
+ORD-1226,19-06-2025,West,Electronics,Smart Speaker,2,4999,"₹9,998",2,No
+ORD-1280,19-06-2025,South,Fashion,Sneakers,1,2999,"₹2,999",4,No
+ORD-1369,19-06-2025,South,Home,Air Fryer,3,5999,"₹17,997",3,No
+ORD-1352,20-06-2025,East,Fashion,Backpack,3,1799,"₹5,397",N/A,No
+ORD-1285,21-06-2025,South,Electronics,Power Bank,1,1299,"₹1,299",N/A,No
+ORD-1030,23-06-2025,South,Fashion,Sneakers,1,2999,"₹2,999",4,No
+ORD-1147,23-06-2025,South,Fashion,Backpack,3,1799,"₹5,397",2,No
+ORD-1004,24-06-2025,East,Electronics,Headphones,4,2499,"₹9,996",5,No
+ORD-1273,25-06-2025,East,Home,Desk Lamp,3,899,"₹2,697",N/A,No
+ORD-1096,26-06-2025,East,Home,Desk Lamp,3,899,"₹2,697",,No
+ORD-1253,26-06-2025,North,Fashion,Sneakers,3,2999,"₹8,997",,No
+ORD-1418,27-06-2025,East,Home,Desk Lamp,3,899,"₹2,697",3,No
+ORD-1189,28-06-2025,South,Electronics,Power Bank,3,1299,"₹3,897",5,No
+ORD-1374,28-06-2025,South,Electronics,Smart Speaker,2,4999,"₹9,998",5,No
+ORD-1193,30-06-2025,East,Home,Air Fryer,2,5999,"₹11,998",5,Yes
+ORD-1347,01-07-2025,West,Home,Desk Lamp,1,899,₹899,4,No
+ORD-1360,04-07-2025,North,Fashion,Sunglasses,3,1499,"₹4,497",5,No
+ORD-1088,05-07-2025,South,Home,Air Fryer,2,5999,"₹11,998",2,No
+ORD-1163,05-07-2025,North,Home,Mixer Grinder,1,3499,"₹3,499",5,No
+ORD-1295,05-07-2025,South,Electronics,Power Bank,5,1299,"₹6,495",3,No
+ORD-1206,06-07-2025,West,Home,Mixer Grinder,3,3499,"₹10,497",5,No
+ORD-1241,08-07-2025,North,Home,Desk Lamp,5,899,"₹4,495",5,No
+ORD-1403,08-07-2025,South,Fashion,Sneakers,1,2999,"₹2,999",3,Yes
+ORD-1155,09-07-2025,North,Electronics,Smart Speaker,5,4999,"₹24,995",,No
+ORD-1210,10-07-2025,North,Home,Mixer Grinder,2,3499,"₹6,998",5,No
+ORD-1234,10-07-2025,South,Home,Mixer Grinder,2,3499,"₹6,998",,No
+ORD-1343,12-07-2025,East,Home,Desk Lamp,1,899,₹899,4,No
+ORD-1006,13-07-2025,East,Electronics,Smart Speaker,1,4999,"₹4,999",4,No
+ORD-1316,13-07-2025,North,Home,Desk Lamp,1,899,₹899,5,No
+ORD-1010,14-07-2025,South,Electronics,Power Bank,1,1299,"₹1,299",,No
+ORD-1061,14-07-2025,North,Home,Mixer Grinder,2,3499,"₹6,998",5,No
+ORD-1080,14-07-2025,East,Electronics,Smart Speaker,3,4999,"₹14,997",5,No
+ORD-1183,14-07-2025,East,Home,Mixer Grinder,1,3499,"₹3,499",5,No
+ORD-1334,14-07-2025,North,Electronics,Smart Speaker,2,4999,"₹9,998",4,No
+ORD-1255,16-07-2025,South,Fashion,Backpack,3,1799,"₹5,397",,No
+ORD-1227,17-07-2025,East,Electronics,Headphones,1,2499,"₹2,499",5,No
+ORD-1198,18-07-2025,North,Home,Air Fryer,2,5999,"₹11,998",,Yes
+ORD-1348,18-07-2025,South,Fashion,Sunglasses,2,1499,"₹2,998",3,No
+ORD-1034,19-07-2025,East,Electronics,Smart Speaker,3,4999,"₹14,997",2,No
+ORD-1371,19-07-2025,North,Electronics,Headphones,3,2499,"₹7,497",5,No
+ORD-1262,21-07-2025,East,Electronics,Smart Speaker,1,4999,"₹4,999",3,No
+ORD-1181,22-07-2025,South,Fashion,Sneakers,4,2999,"₹11,996",3,No
+ORD-1354,23-07-2025,West,Fashion,Backpack,4,1799,"₹7,196",4,No
+ORD-1394,23-07-2025,South,Electronics,Smart Speaker,5,4999,"₹24,995",N/A,No
+ORD-1014,24-07-2025,West,Electronics,Headphones,4,2499,"₹9,996",5,No
+ORD-1117,25-07-2025,East,Fashion,Sunglasses,3,1499,"₹4,497",,No
+ORD-1176,25-07-2025,North,Electronics,Power Bank,2,1299,"₹2,598",5,No
+ORD-1118,26-07-2025,West,Fashion,Sneakers,3,2999,"₹8,997",2,Yes
+ORD-1333,27-07-2025,North,Home,Mixer Grinder,4,3499,"₹13,996",4,No
+ORD-1028,28-07-2025,West,Electronics,Headphones,2,2499,"₹4,998",,No
+ORD-1094,28-07-2025,West,Home,Mixer Grinder,2,3499,"₹6,998",N/A,No
+ORD-1330,30-07-2025,East,Electronics,Power Bank,1,1299,"₹1,299",5,Yes
+ORD-1389,30-07-2025,South,Fashion,Backpack,3,1799,"₹5,397",4,No
+ORD-1074,01-08-2025,West,Electronics,Smart Speaker,2,4999,"₹9,998",4,No
+ORD-1125,01-08-2025,East,Electronics,Power Bank,2,1299,"₹2,598",N/A,No
+ORD-1380,01-08-2025,West,Fashion,Backpack,2,1799,"₹3,598",3,No
+ORD-1267,02-08-2025,West,Home,Desk Lamp,4,899,"₹3,596",5,No
+ORD-1209,03-08-2025,East,Fashion,Sneakers,3,2999,"₹8,997",4,No
+ORD-1306,03-08-2025,South,Home,Mixer Grinder,6,3499,"₹20,994",4,Yes
+ORD-1087,08-08-2025,West,Home,Mixer Grinder,1,3499,"₹3,499",N/A,No
+ORD-1062,09-08-2025,East,Fashion,Sunglasses,2,1499,"₹2,998",N/A,No
+ORD-1346,09-08-2025,West,Home,Desk Lamp,3,899,"₹2,697",5,Yes
+ORD-1362,09-08-2025,East,Electronics,Headphones,2,2499,"₹4,998",4,No
+ORD-1113,10-08-2025,North,Fashion,Sunglasses,2,1499,"₹2,998",5,No
+ORD-1370,10-08-2025,South,Electronics,Power Bank,4,1299,"₹5,196",N/A,No
+ORD-1058,12-08-2025,South,Electronics,Power Bank,5,1299,"₹6,495",,No
+ORD-1043,13-08-2025,North,Fashion,Sunglasses,1,1499,"₹1,499",5,No
+ORD-1367,13-08-2025,North,Fashion,Backpack,2,1799,"₹3,598",4,No
+ORD-1270,14-08-2025,West,Electronics,Headphones,4,2499,"₹9,996",4,No
+ORD-1105,15-08-2025,North,Electronics,Power Bank,4,1299,"₹5,196",5,No
+ORD-1126,17-08-2025,East,Home,Air Fryer,3,5999,"₹17,997",2,No
+ORD-1031,18-08-2025,North,Electronics,Headphones,2,2499,"₹4,998",N/A,No
+ORD-1207,18-08-2025,West,Electronics,Headphones,2,2499,"₹4,998",4,No
+ORD-1196,19-08-2025,North,Electronics,Smart Speaker,1,4999,"₹4,999",3,Yes
+ORD-1261,19-08-2025,North,Fashion,Backpack,3,1799,"₹5,397",3,No
+ORD-1024,20-08-2025,North,Electronics,Headphones,4,2499,"₹9,996",,Yes
+ORD-1149,21-08-2025,East,Electronics,Power Bank,2,1299,"₹2,598",5,No
+ORD-1157,21-08-2025,North,Electronics,Headphones,1,2499,"₹2,499",4,No
+ORD-1130,22-08-2025,West,Electronics,Headphones,3,2499,"₹7,497",3,Yes
+ORD-1366,22-08-2025,West,Fashion,Sunglasses,5,1499,"₹7,495",,No
+ORD-1069,26-08-2025,West,Home,Desk Lamp,1,899,₹899,2,No
+ORD-1304,26-08-2025,West,Home,Desk Lamp,1,899,₹899,2,No
+ORD-1016,28-08-2025,North,Home,Desk Lamp,1,899,₹899,5,No
+ORD-1029,28-08-2025,North,Fashion,Sneakers,1,2999,"₹2,999",4,No
+ORD-1053,29-08-2025,South,Electronics,Smart Speaker,1,4999,"₹4,999",4,Yes
+ORD-1150,30-08-2025,East,Electronics,Power Bank,1,1299,"₹1,299",4,No
+ORD-1128,31-08-2025,West,Fashion,Backpack,4,1799,"₹7,196",3,No
+ORD-1102,02-09-2025,West,Electronics,Headphones,3,2499,"₹7,497",N/A,Yes
+ORD-1272,02-09-2025,South,Home,Air Fryer,1,5999,"₹5,999",N/A,No
+ORD-1289,02-09-2025,West,Electronics,Headphones,4,2499,"₹9,996",5,No
+ORD-1402,02-09-2025,North,Electronics,Smart Speaker,3,4999,"₹14,997",5,No
+ORD-1223,03-09-2025,West,Home,Mixer Grinder,5,3499,"₹17,495",4,No
+ORD-1242,03-09-2025,North,Home,Air Fryer,5,5999,"₹29,995",3,No
+ORD-1098,05-09-2025,East,Electronics,Power Bank,3,1299,"₹3,897",5,No
+ORD-1140,05-09-2025,East,Electronics,Smart Speaker,1,4999,"₹4,999",5,No
+ORD-1077,06-09-2025,West,Electronics,Smart Speaker,48,4999,"₹239,952",3,No
+ORD-1379,06-09-2025,West,Electronics,Smart Speaker,4,4999,"₹19,996",2,No
+ORD-1377,07-09-2025,South,Home,Desk Lamp,6,899,"₹5,394",3,No
+ORD-1325,08-09-2025,East,Fashion,Sunglasses,2,1499,"₹2,998",3,No
+ORD-1165,09-09-2025,South,Fashion,Backpack,3,1799,"₹5,397",5,No
+ORD-1321,12-09-2025,South,Home,Desk Lamp,1,899,₹899,,No
+ORD-1019,17-09-2025,North,Home,Mixer Grinder,2,3499,"₹6,998",,No
+ORD-1173,17-09-2025,East,Electronics,Power Bank,1,1299,"₹1,299",,No
+ORD-1055,18-09-2025,East,Electronics,Power Bank,2,1299,"₹2,598",3,No
+ORD-1263,18-09-2025,East,Home,Mixer Grinder,3,3499,"₹10,497",N/A,No
+ORD-1297,19-09-2025,West,Home,Mixer Grinder,1,3499,"₹3,499",4,No
+ORD-1288,21-09-2025,North,Electronics,Smart Speaker,1,4999,"₹4,999",3,No
+ORD-1119,23-09-2025,South,Electronics,Smart Speaker,1,4999,"₹4,999",5,No
+ORD-1363,23-09-2025,West,Home,Desk Lamp,1,899,₹899,N/A,No
+ORD-1296,24-09-2025,South,Home,Desk Lamp,4,899,"₹3,596",N/A,No
+ORD-1089,25-09-2025,West,Fashion,Backpack,1,1799,"₹1,799",N/A,No
+ORD-1332,27-09-2025,East,Electronics,Smart Speaker,3,4999,"₹14,997",2,No
+ORD-1167,29-09-2025,North,Electronics,Power Bank,2,1299,"₹2,598",4,No
+ORD-1078,01-10-2025,North,Electronics,Smart Speaker,1,4999,"₹4,999",5,No
+ORD-1320,01-10-2025,East,Home,Air Fryer,5,5999,"₹29,995",,No
+ORD-1017,02-10-2025,South,Fashion,Sunglasses,3,1499,"₹4,497",N/A,Yes
+ORD-1372,02-10-2025,South,Electronics,Smart Speaker,7,4999,"₹34,993",N/A,No
+ORD-1278,03-10-2025,East,Electronics,Power Bank,6,1299,"₹7,794",3,No
+ORD-1303,03-10-2025,North,Electronics,Headphones,3,2499,"₹7,497",4,No
+ORD-1081,04-10-2025,North,Electronics,Smart Speaker,4,4999,"₹19,996",4,No
+ORD-1225,06-10-2025,East,Home,Mixer Grinder,4,3499,"₹13,996",4,No
+ORD-1383,06-10-2025,West,Fashion,Backpack,1,1799,"₹1,799",4,No
+ORD-1076,07-10-2025,West,Fashion,Sneakers,3,2999,"₹8,997",4,No
+ORD-1222,07-10-2025,South,Electronics,Power Bank,3,1299,"₹3,897",N/A,No
+ORD-1250,07-10-2025,West,Electronics,Smart Speaker,2,4999,"₹9,998",4,No
+ORD-1326,07-10-2025,North,Home,Desk Lamp,1,899,₹899,4,No
+ORD-1070,08-10-2025,West,Home,Mixer Grinder,1,3499,"₹3,499",N/A,No
+ORD-1022,09-10-2025,West,Electronics,Power Bank,1,1299,"₹1,299",4,No
+ORD-1032,09-10-2025,North,Electronics,Power Bank,5,1299,"₹6,495",5,No
+ORD-1356,09-10-2025,West,Electronics,Power Bank,7,1299,"₹9,093",4,No
+ORD-1107,10-10-2025,West,Electronics,Headphones,1,2499,"₹2,499",5,Yes
+ORD-1025,11-10-2025,North,Electronics,Headphones,7,2499,"₹17,493",4,Yes
+ORD-1045,11-10-2025,South,Electronics,Smart Speaker,1,4999,"₹4,999",5,No
+ORD-1159,11-10-2025,South,Electronics,Headphones,4,2499,"₹9,996",4,No
+ORD-1035,12-10-2025,North,Home,Air Fryer,5,5999,"₹29,995",4,No
+ORD-1148,13-10-2025,North,Electronics,Smart Speaker,3,4999,"₹14,997",5,No
+ORD-1248,16-10-2025,North,Electronics,Headphones,2,2499,"₹4,998",4,No
+ORD-1339,16-10-2025,West,Electronics,Smart Speaker,3,4999,"₹14,997",3,No
+ORD-1404,16-10-2025,South,Electronics,Power Bank,6,1299,"₹7,794",N/A,No
+ORD-1382,17-10-2025,North,Fashion,Backpack,5,1799,"₹8,995",5,No
+ORD-1012,18-10-2025,South,Fashion,Backpack,2,1799,"₹3,598",N/A,No
+ORD-1021,18-10-2025,South,Fashion,Sneakers,3,2999,"₹8,997",3,No
+ORD-1038,19-10-2025,North,Electronics,Power Bank,2,1299,"₹2,598",5,No
+ORD-1260,19-10-2025,East,Home,Air Fryer,1,5999,"₹5,999",5,No
+ORD-1411,19-10-2025,North,Home,Desk Lamp,2,899,"₹1,798",4,No
+ORD-1208,20-10-2025,East,Fashion,Backpack,7,1799,"₹12,593",2,No
+ORD-1185,21-10-2025,North,Home,Desk Lamp,3,899,"₹2,697",,No
+ORD-1075,22-10-2025,West,Electronics,Headphones,5,2499,"₹12,495",2,No
+ORD-1309,22-10-2025,South,Electronics,Power Bank,4,1299,"₹5,196",5,No
+ORD-1249,23-10-2025,North,Electronics,Headphones,4,2499,"₹9,996",N/A,No
+ORD-1268,24-10-2025,North,Home,Desk Lamp,2,899,"₹1,798",N/A,No
+ORD-1039,26-10-2025,East,Home,Air Fryer,5,5999,"₹29,995",4,No
+ORD-1049,26-10-2025,North,Home,Air Fryer,5,5999,"₹29,995",,No
+ORD-1115,27-10-2025,West,Home,Air Fryer,6,5999,"₹35,994",,No
+ORD-1323,27-10-2025,South,Home,Air Fryer,3,5999,"₹17,997",2,No
+ORD-1171,28-10-2025,East,Fashion,Sunglasses,3,1499,"₹4,497",2,No
+ORD-1279,28-10-2025,South,Electronics,Headphones,2,2499,"₹4,998",4,No
+ORD-1317,28-10-2025,East,Fashion,Sunglasses,4,1499,"₹5,996",5,No
+ORD-1338,28-10-2025,West,Electronics,Power Bank,3,1299,"₹3,897",5,No
+ORD-1364,29-10-2025,East,Home,Mixer Grinder,3,3499,"₹10,497",4,No
+ORD-1386,29-10-2025,West,Home,Desk Lamp,3,899,"₹2,697",3,No
+ORD-1311,30-10-2025,West,Fashion,Sneakers,2,2999,"₹5,998",4,No
+ORD-1375,30-10-2025,North,Electronics,Headphones,3,2499,"₹7,497",3,No
+ORD-1090,31-10-2025,North,Electronics,Headphones,1,2499,"₹2,499",5,No
+ORD-1307,01-11-2025,South,Electronics,Power Bank,2,1299,"₹2,598",4,No
+ORD-1093,02-11-2025,South,Fashion,Backpack,1,1799,"₹1,799",5,No
+ORD-1190,05-11-2025,North,Electronics,Power Bank,2,1299,"₹2,598",3,No
+ORD-1232,08-11-2025,North,Home,Air Fryer,5,5999,"₹29,995",3,Yes
+ORD-1136,09-11-2025,South,Fashion,Sunglasses,6,1499,"₹8,994",N/A,No
+ORD-1271,10-11-2025,South,Fashion,Sunglasses,3,1499,"₹4,497",,No
+ORD-1186,13-11-2025,East,Home,Desk Lamp,4,899,"₹3,596",5,No
+ORD-1205,13-11-2025,South,Electronics,Smart Speaker,4,4999,"₹19,996",N/A,Yes
+ORD-1143,14-11-2025,South,Electronics,Power Bank,4,1299,"₹5,196",5,No
+ORD-1217,15-11-2025,North,Home,Mixer Grinder,5,3499,"₹17,495",4,No
+ORD-1166,16-11-2025,East,Home,Desk Lamp,4,899,"₹3,596",2,No
+ORD-1132,17-11-2025,North,Fashion,Backpack,4,1799,"₹7,196",5,No
+ORD-1351,17-11-2025,East,Home,Desk Lamp,4,899,"₹3,596",4,No
+ORD-1396,17-11-2025,North,Fashion,Backpack,7,1799,"₹12,593",5,No
+ORD-1191,18-11-2025,East,Home,Desk Lamp,4,899,"₹3,596",,No
+ORD-1413,18-11-2025,South,Fashion,Backpack,2,1799,"₹3,598",5,No
+ORD-1066,19-11-2025,West,Home,Desk Lamp,4,899,"₹3,596",N/A,No
+ORD-1103,19-11-2025,East,Home,Mixer Grinder,5,3499,"₹17,495",5,No
+ORD-1121,19-11-2025,North,Home,Mixer Grinder,3,3499,"₹10,497",2,No
+ORD-1269,19-11-2025,North,Fashion,Backpack,6,1799,"₹10,794",5,No
+ORD-1391,20-11-2025,North,Electronics,Smart Speaker,3,4999,"₹14,997",2,No
+ORD-1415,21-11-2025,West,Fashion,Sunglasses,3,1499,"₹4,497",4,Yes
+ORD-1008,22-11-2025,East,Fashion,Sneakers,3,2999,"₹8,997",,No
+ORD-1151,22-11-2025,South,Fashion,Sunglasses,3,1499,"₹4,497",4,No
+ORD-1246,22-11-2025,South,Fashion,Backpack,8,1799,"₹14,392",5,No
+ORD-1329,23-11-2025,North,Home,Desk Lamp,6,899,"₹5,394",4,No
+ORD-1001,24-11-2025,North,Electronics,Power Bank,3,1299,"₹3,897",5,No
+ORD-1292,24-11-2025,East,Fashion,Backpack,5,1799,"₹8,995",4,No
+ORD-1243,25-11-2025,South,Electronics,Smart Speaker,3,4999,"₹14,997",3,No
+ORD-1013,26-11-2025,East,Home,Air Fryer,6,5999,"₹35,994",2,No
+ORD-1312,26-11-2025,East,Home,Desk Lamp,2,899,"₹1,798",2,No
+ORD-1144,27-11-2025,North,Electronics,Smart Speaker,1,4999,"₹4,999",,No
+ORD-1156,27-11-2025,East,Electronics,Smart Speaker,2,4999,"₹9,998",4,No
+ORD-1233,27-11-2025,South,Electronics,Smart Speaker,4,4999,"₹19,996",N/A,No
+ORD-1368,28-11-2025,South,Electronics,Headphones,5,2499,"₹12,495",3,No
+ORD-1003,29-11-2025,North,Fashion,Backpack,4,1799,"₹7,196",3,No
+ORD-1235,29-11-2025,West,Electronics,Headphones,5,2499,"₹12,495",5,No
+ORD-1399,29-11-2025,South,Electronics,Smart Speaker,1,4999,"₹4,999",2,No
+ORD-1353,30-11-2025,South,Fashion,Sneakers,3,2999,"₹8,997",N/A,No
+ORD-1154,02-12-2025,West,Electronics,Smart Speaker,1,4999,"₹4,999",5,Yes
+ORD-1361,03-12-2025,West,Home,Mixer Grinder,2,3499,"₹6,998",,No
+ORD-1417,03-12-2025,North,Fashion,Sneakers,3,2999,"₹8,997",3,No
+ORD-1408,04-12-2025,South,Fashion,Sneakers,3,2999,"₹8,997",2,No
+ORD-1179,05-12-2025,North,Home,Desk Lamp,1,899,₹899,,No
+ORD-1310,05-12-2025,East,Home,Air Fryer,1,5999,"₹5,999",5,Yes
+ORD-1064,06-12-2025,North,Home,Air Fryer,1,5999,"₹5,999",4,No
+ORD-1200,06-12-2025,East,Electronics,Smart Speaker,5,4999,"₹24,995",2,No
+ORD-1059,07-12-2025,East,Fashion,Sunglasses,1,1499,"₹1,499",5,No
+ORD-1294,07-12-2025,North,Fashion,Sneakers,1,2999,"₹2,999",N/A,No
+ORD-1083,09-12-2025,East,Electronics,Headphones,1,2499,"₹2,499",3,No
+ORD-1373,10-12-2025,West,Fashion,Sunglasses,4,1499,"₹5,996",2,No
+ORD-1298,11-12-2025,North,Fashion,Sunglasses,3,1499,"₹4,497",2,No
+ORD-1063,12-12-2025,South,Electronics,Smart Speaker,4,4999,"₹19,996",5,No
+ORD-1138,13-12-2025,West,Home,Mixer Grinder,4,3499,"₹13,996",,No
+ORD-1276,13-12-2025,East,Home,Air Fryer,3,5999,"₹17,997",3,No
+ORD-1302,16-12-2025,South,Fashion,Sunglasses,1,1499,"₹1,499",,No
+ORD-1133,17-12-2025,North,Fashion,Sneakers,2,2999,"₹5,998",5,No
+ORD-1202,17-12-2025,West,Fashion,Sneakers,2,2999,"₹5,998",,Yes
+ORD-1251,17-12-2025,West,Home,Air Fryer,3,5999,"₹17,997",2,No
+ORD-1337,17-12-2025,East,Fashion,Sunglasses,2,1499,"₹2,998",4,No
+ORD-1340,19-12-2025,East,Fashion,Sunglasses,1,1499,"₹1,499",4,No
+ORD-1023,20-12-2025,East,Electronics,Smart Speaker,1,4999,"₹4,999",N/A,No
+ORD-1291,21-12-2025,West,Electronics,Power Bank,3,1299,"₹3,897",5,No
+ORD-1336,21-12-2025,East,Fashion,Backpack,1,1799,"₹1,799",4,No
+ORD-1134,22-12-2025,North,Electronics,Headphones,1,2499,"₹2,499",,No
+ORD-1068,23-12-2025,South,Home,Mixer Grinder,1,3499,"₹3,499",5,No
+ORD-1319,23-12-2025,East,Home,Mixer Grinder,2,3499,"₹6,998",5,No
+ORD-1331,24-12-2025,South,Home,Mixer Grinder,3,3499,"₹10,497",4,No
+ORD-1275,27-12-2025,East,Electronics,Power Bank,1,1299,"₹1,299",5,No
+ORD-1400,27-12-2025,West,Electronics,Headphones,1,2499,"₹2,499",5,No
+ORD-1197,29-12-2025,East,Home,Air Fryer,1,5999,"₹5,999",,No
+ORD-1201,29-12-2025,East,Fashion,Backpack,1,1799,"₹1,799",3,No
+ORD-1238,30-12-2025,East,Electronics,Power Bank,5,1299,"₹6,495",5,No
+ORD-1239,31-12-2025,South,Fashion,Sunglasses,1,1499,"₹1,499",5,No
